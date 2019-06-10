@@ -1,0 +1,240 @@
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" CONTENT="AIDA64 v6.00.5100">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=gb2312">
+<STYLE>
+#reportmenu > ul{
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ position: fixed;
+ display: block;
+ top: 5px;
+ right: 20%;
+ z-index: 100;
+}
+#reportmenu > ul li {
+ display: block;
+ position: relative;
+ margin: 0;
+ padding: 0;
+ min-width: 150px;
+}
+#reportmenu > ul li a {
+font: 80% verdana, tahoma, ms sans serif, arial; color: #000000;
+ display: block;
+ position: relative;
+ min-width: 130px;
+ min-height: 18px;
+ padding: 6px 20px;
+ border-bottom: 1px solid #9fcaeb;
+ color: #fff;
+ text-decoration: none;
+ background: #65a3d3;
+}
+#reportmenu > ul li>a:hover, #reportmenu > ul li:hover>a {
+ color: #fff;
+ background: #a3d4ed;
+ border-color: transparent;
+}
+#reportmenu > ul .has-sub>a::after {
+ content: '';
+ position: absolute;
+ top: 13px;
+ right: 10px;
+ width: 0px;
+ height: 0px;
+ border: 4px solid transparent;
+ border-left: 4px solid #fff;
+}
+#reportmenu > ul .top-menu>a::after {
+ content: '';
+ position: absolute;
+ top: 13px;
+ right: 10px;
+ width: 0px;
+ height: 0px;
+ border: 4px solid transparent;
+ border-top: 4px solid #fff;
+}
+#reportmenu > ul ul {
+ position: absolute;
+ left: 100%;
+ top: -9999px;
+ padding-left: 0;
+ xborder-left: 5px solid #fff;
+ opacity: 0;
+ z-index:100;
+ -webkit-transition: opacity .3s ease-in;
+ -moz-transition: opacity .3s ease-in;
+ -o-transition: opacity .3s ease-in;
+ -ms-transition: opacity .3s ease-in;
+}
+#reportmenu ul ul ul {
+ border-left: 5px solid #fff;
+}
+#reportmenu ul.submenu {
+ left: 0;
+}
+#reportmenu li:hover>ul.submenu {
+ top: 0;
+ opacity: 1;
+ border-top: 4px solid white;
+ position: relative;
+}
+#reportmenu > ul li:hover>ul {
+ top: 0px;
+ opacity: 1;
+}
+#reportmenu > ul li:first-child>a {
+ border-top-left-radius: 4px;
+ border-top-right-radius: 4px;
+ border-top: 0;
+}
+#reportmenu > ul li:last-child>a {
+ border-bottom-left-radius: 4px;
+ border-bottom-right-radius: 4px;
+ border-bottom: 0;
+}
+A { text-decoration: none }
+A:hover { text-decoration: underline }
+TD { font: 80% verdana, tahoma, ms sans serif, arial; color: #000000; vertical-align: text-center; text-align: left }
+TD.cr { font: 80% verdana, tahoma, ms sans serif, arial; color: #000000; vertical-align: text-center; text-align: right }
+TD.cc { font: 80% verdana, tahoma, ms sans serif, arial; color: #000000; vertical-align: text-center; text-align: center }
+TD.pt { font: bold 140% verdana, tahoma, ms sans serif, arial; color: #000080; vertical-align: text-center }
+TD.dt { font: bold 110% verdana, tahoma, ms sans serif, arial; color: #000080; vertical-align: text-center }
+.pc { border: 1px solid #b0bcc8; width:129px }
+.bar   { padding: 2px 0 }
+.bar.r { background-color: #afddff }
+.bar.u { background-color: #94f5a3 }
+.bar.a { background-color: #f5e294 }
+.txt { font-size: 88%; padding: 0 3px }
+</STYLE>
+<TITLE>&lt;LAPTOP-7QE3SJ70&gt; 报告</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<TABLE WIDTH=100%><TD CLASS=pt>AIDA64 Extreme<TR><TD>
+
+* * *
+</TABLE><TABLE><TR><TD WIDTH=16>&nbsp;<TD WIDTH=16><TD><TD>
+<TR><TD><TD><TD>版本&nbsp;&nbsp;<TD>AIDA64 v6.00.5100/cn
+<TR><TD><TD><TD>检测模块&nbsp;&nbsp;<TD>4.4.800-x64
+<TR><TD><TD><TD>主页&nbsp;&nbsp;<TD>[http://www.aida64.com/](http://www.aida64.com/)
+<TR><TD><TD><TD>报告类型&nbsp;&nbsp;<TD>快速报告 [ TRIAL VERSION ]
+<TR><TD><TD><TD>计算机&nbsp;&nbsp;<TD>LAPTOP-7QE3SJ70
+<TR><TD><TD><TD>用户&nbsp;&nbsp;<TD>user
+<TR><TD><TD><TD>操作系统&nbsp;&nbsp;<TD>Microsoft Windows 10 Home China 10.0.17134.765 (Win10 RS4 [1803] April 2018 Update)
+<TR><TD><TD><TD>日期&nbsp;&nbsp;<TD>2019-06-10
+<TR><TD><TD><TD>时间&nbsp;&nbsp;<TD>15:06
+</TABLE>
+
+<TABLE WIDTH=100%><TD CLASS=pt><A NAME="ata">ATA</A><TR><TD>
+
+* * *
+</TABLE><TABLE><TR><TD WIDTH=16>&nbsp;<TD WIDTH=16><TD WIDTH=16><TD><TD>
+
+<TR><TD><TD CLASS=dt COLSPAN=5>[ INTEL SSDSC2KB019T8 (PHYF828601KB1P9DGN) ]
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**ATA 设备信息:**
+<TR><TD><TD><TD><TD>型号 ID&nbsp;&nbsp;<TD>INTEL SSDSC2KB019T8
+<TR><TD><TD><TD><TD>序列号&nbsp;&nbsp;<TD>PHYF828601KB1P9DGN
+<TR><TD><TD><TD><TD>修订&nbsp;&nbsp;<TD>XCV10100
+<TR><TD><TD><TD><TD>World Wide Name&nbsp;&nbsp;<TD>5-5CD2E4-14F9C7964
+<TR><TD><TD><TD><TD>设备类型&nbsp;&nbsp;<TD>SATA-III
+<TR><TD><TD><TD><TD>参数&nbsp;&nbsp;<TD>3720981 柱面, 16 磁头, 63 扇区/磁道, 512 字节/扇区
+<TR><TD><TD><TD><TD>LBA 扇区&nbsp;&nbsp;<TD>3750748848
+<TR><TD><TD><TD><TD>物理/逻辑扇区大小&nbsp;&nbsp;<TD>4 KB / 512 字节
+<TR><TD><TD><TD><TD>多扇区&nbsp;&nbsp;<TD>1
+<TR><TD><TD><TD><TD>最大 PIO 传输模式&nbsp;&nbsp;<TD>PIO 4
+<TR><TD><TD><TD><TD>最大 MWDMA 传输模式&nbsp;&nbsp;<TD>MWDMA 2
+<TR><TD><TD><TD><TD>最大 UDMA 传输模式&nbsp;&nbsp;<TD>UDMA 6
+<TR><TD><TD><TD><TD>当前 UDMA 传输模式&nbsp;&nbsp;<TD>UDMA 6
+<TR><TD><TD><TD><TD>未格式化容量&nbsp;&nbsp;<TD>1788 GB
+<TR><TD><TD><TD><TD>形状特征&nbsp;&nbsp;<TD>2.5"
+<TR><TD><TD><TD><TD>盘片转速&nbsp;&nbsp;<TD>SSD
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**ATA 设备特性:**
+<TR><TD><TD><TD><TD>48-bit LBA&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Automatic Acoustic Management (AAM)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Device Configuration Overlay (DCO)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>DMA Setup Auto-Activate&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Free-Fall Control&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>General Purpose Logging (GPL)&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Hardware Feature Control&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Host Protected Area (HPA)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>HPA Security Extensions&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Hybrid Information Feature&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>In-Order Data Delivery&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Native Command Queuing (NCQ)&nbsp;&nbsp;<TD>支持
+<TR><TD><TD><TD><TD>NCQ Autosense&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>NCQ Priority Information&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>NCQ Queue Management Command&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>NCQ Streaming&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Phy Event Counters&nbsp;&nbsp;<TD>支持
+<TR><TD><TD><TD><TD>Read Look-Ahead&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Release Interrupt&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>安全模式&nbsp;&nbsp;<TD>支持, 已禁用
+<TR><TD><TD><TD><TD>Sense Data Reporting (SDR)&nbsp;&nbsp;<TD>支持, 已禁用
+<TR><TD><TD><TD><TD>Service Interrupt&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>SMART&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>SMART Error Logging&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>SMART Self-Test&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Software Settings Preservation (SSP)&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Streaming&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Tagged Command Queuing (TCQ)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>写入缓存&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Write-Read-Verify&nbsp;&nbsp;<TD>不支持
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**SSD 信息:**
+<TR><TD><TD><TD><TD>Data Set Management&nbsp;&nbsp;<TD>支持
+<TR><TD><TD><TD><TD>Deterministic Read After TRIM&nbsp;&nbsp;<TD>支持
+<TR><TD><TD><TD><TD>TRIM 命令&nbsp;&nbsp;<TD>支持
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**电源管理特性:**
+<TR><TD><TD><TD><TD>高级电源管理(APM)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Automatic Partial to Slumber Transitions (APST)&nbsp;&nbsp;<TD>已禁用
+<TR><TD><TD><TD><TD>Device Initiated Interface Power Management (DIPM)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Device Sleep (DEVSLP)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Extended Power Conditions (EPC)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>Host Initiated Interface Power Management (HIPM)&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>IDLE IMMEDIATE With UNLOAD FEATURE&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Link Power State Device Sleep&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>电源管理&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>Power-Up In Standby (PUIS)&nbsp;&nbsp;<TD>不支持
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**ATA 指令:**
+<TR><TD><TD><TD><TD>DEVICE RESET&nbsp;&nbsp;<TD>不支持
+<TR><TD><TD><TD><TD>DOWNLOAD MICROCODE&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>FLUSH CACHE&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>FLUSH CACHE EXT&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>NOP&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>READ BUFFER&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD><TD><TD><TD>WRITE BUFFER&nbsp;&nbsp;<TD>支持, 已启用
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**SSD 物理信息:**
+<TR><TD><TD><TD><TD>制造商&nbsp;&nbsp;<TD>Intel
+<TR><TD><TD><TD><TD>SSD 家族&nbsp;&nbsp;<TD>D3-S4510
+<TR><TD><TD><TD><TD>家族代码名称&nbsp;&nbsp;<TD>Youngsville Refresh
+<TR><TD><TD><TD><TD>形状特征&nbsp;&nbsp;<TD>2.5"
+<TR><TD><TD><TD><TD>格式化容量&nbsp;&nbsp;<TD>1920 GB
+<TR><TD><TD><TD><TD>闪存类型&nbsp;&nbsp;<TD>Intel 64-layer 3D TLC NAND
+<TR><TD><TD><TD><TD>最大连续读取速度&nbsp;&nbsp;<TD>560 MB/秒
+<TR><TD><TD><TD><TD>最大连续写入速度&nbsp;&nbsp;<TD>510 MB/秒
+<TR><TD><TD><TD><TD>最大随机 4KB 读取速度&nbsp;&nbsp;<TD>97000 IOPS
+<TR><TD><TD><TD><TD>最大随机 4KB 写入速度&nbsp;&nbsp;<TD>35500 IOPS
+<TR><TD><TD><TD><TD>接口类型&nbsp;&nbsp;<TD>SATA-III
+<TR><TD><TD><TD><TD>接口速率&nbsp;&nbsp;<TD>600 MB/秒
+<TR><TD>&nbsp;
+<TR><TD><TD><TD COLSPAN=3>**设备制造商:**
+<TR><TD><TD><TD><TD>公司名称&nbsp;&nbsp;<TD>Intel Corporation
+<TR><TD><TD><TD><TD>产品信息&nbsp;&nbsp;<TD>[https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives.html](https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives.html)
+<TR><TD><TD><TD><TD>驱动程序更新&nbsp;&nbsp;<TD>[http://www.aida64.com/goto/?p=drvupdates](http://www.aida64.com/goto/?p=drvupdates)
+</TABLE>
+
+* * *
+
+The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+
+</BODY>
+</HTML>
